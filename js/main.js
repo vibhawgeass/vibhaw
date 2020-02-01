@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Vibhaw Priansh.", "Developer.", "Photographer.", "Footballer.", "Explorer."],
+      strings: ["Vibhaw Priansh.", "Developer.", "competitive coder.", "Footballer.", "Explorer."],
       typeSpeed: 100,
       loop: true,
     });
